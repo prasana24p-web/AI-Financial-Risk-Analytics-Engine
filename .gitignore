@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.dll
+*.so
+*.dylib
+.env
+.pytest_cache/
+.coverage
+build/
+*.log
+.idea/
+.vscode/
